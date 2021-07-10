@@ -14,7 +14,8 @@ This application allows the user to create, save and view previous notes. It was
 This application requries npm installer.
 
 ## Usage 
-https://drive.google.com/file/d/1jLGFKmy2kUSaN7-CY4dJKxRePO2_EGm_/view
+See heroku link below to use application: 
+https://boiling-savannah-32064.herokuapp.com/ 
 
 ## Contributing
 Please refer to this link:https://www.contributor-covenant.org/
@@ -25,3 +26,5 @@ There are no test instructions at this moment.
 ## Questions
 Github: www.github.com/stephgeorge22
 Email: stephanie.george22@gmail.com
+
+![image](https://user-images.githubusercontent.com/48072176/125171137-97932b00-e180-11eb-9d8e-7a173166d377.png)
